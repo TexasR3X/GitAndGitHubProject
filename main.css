@@ -1,2 +1,8 @@
-h1 {font-size: 2rem;}
-body {background: #88f;}
+body {
+    background: #aaf;
+    color: #004;
+}
+h1, h2 {
+    font-size: 2rem;
+    text-decoration: underline;
+}
